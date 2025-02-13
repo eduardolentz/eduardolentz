@@ -1,0 +1,109 @@
+# Olá, eu sou [Seu Nome]! 👋
+
+💻 **Desenvolvedor(a)** | 🌍 **Localização** | 🚀 **Buscando sempre aprender e crescer**
+
+## Sobre Mim
+
+- 🎓 **Formação**: [Sua formação ou área de estudo]
+- 🌱 **Atualmente aprendendo**: [Tecnologias ou habilidades que está estudando]
+- 👯 **Colaborando em**: [Projetos ou comunidades que você contribui]
+- 🤔 **Interesses**: [Seus interesses, como IA, desenvolvimento web, mobile, etc.]
+- 💬 **Pergunte-me sobre**: [Tópicos que você domina e gosta de discutir]
+- 📫 **Como me encontrar**: [Seu e-mail ou redes sociais]
+- 😄 **Pronomes**: [Seus pronomes, se quiser compartilhar]
+- ⚡ **Fato curioso**: [Algo interessante sobre você]
+
+## Tecnologias e Ferramentas
+
+Aqui estão algumas das tecnologias e ferramentas que eu uso:
+
+- **Linguagens**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+- **Frameworks**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+- **Ferramentas**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical)
+
+## Projetos Destacados
+
+Aqui estão alguns dos meus projetos favoritos:
+
+- [Projeto 1](link) - Breve descrição do projeto.
+- [Projeto 2](link) - Breve descrição do projeto.
+- [Projeto 3](link) - Breve descrição do projeto.
+
+## Vamos nos conectar!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](link)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](link)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](link)
+
+---
+
+⭐️ Feito com ❤️ por [Seu Nome]
+
+---
+## 🚀 Example Usage
+
+Click to get the URL!
+
+[![stars][1]][1]
+[![open issues][2]][2]
+[![license][3]][3]
+[![build][4]][4]
+[![last commit][5]][5]
+[![total contributions][26]][26]
+
+[![code size][6]][6]
+[![pr closed][7]][7]
+[![tag][8]][8]
+[![rating][9]][9]
+[![github streak][25]][25]
+
+[![followers][10]][10]
+[![stars][11]][11]
+[![fork][12]][12]
+[![watch][13]][13]
+[![downloads social][14]][14]
+
+[![my repos][15]][15]
+[![downloads][16]][16]
+[![phone][17]][17]
+[![email][18]][18]
+[![location][19]][19]
+
+[![open issue][20]][20]
+[![discuss][21]][21]
+[![install package][22]][22]
+[![use template][23]][23]
+[![github action][24]][24]
+
+[1]: https://custom-icon-badges.demolab.com/github/stars/DenverCoder1/custom-icon-badges?logo=star
+[2]: https://custom-icon-badges.demolab.com/github/issues-raw/DenverCoder1/custom-icon-badges?logo=issue
+[3]: https://custom-icon-badges.demolab.com/github/license/denvercoder1/custom-icon-badges?logo=law
+[4]: https://custom-icon-badges.demolab.com/github/actions/workflow/status/DenverCoder1/custom-icon-badges/ci.yml?branch=main&logo=check-circle-fill&logoColor=white
+[5]: https://custom-icon-badges.demolab.com/github/last-commit/DenverCoder1/custom-icon-badges?logo=history&logoColor=white
+[6]: https://custom-icon-badges.demolab.com/github/languages/code-size/DenverCoder1/custom-icon-badges?logo=file-code&logoColor=white
+[7]: https://custom-icon-badges.demolab.com/github/issues-pr-closed/DenverCoder1/custom-icon-badges?color=purple&logo=git-pull-request&logoColor=white
+[8]: https://custom-icon-badges.demolab.com/github/v/tag/DenverCoder1/custom-icon-badges?logo=tag&logoColor=white
+[9]: https://custom-icon-badges.demolab.com/chrome-web-store/rating/ogffaloegjglncjfehdfplabnoondfjo?logo=thumbsup&logoColor=white
+[10]: https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?logo=person-add&style=social&logoColor=black
+[11]: https://custom-icon-badges.demolab.com/github/stars/DenverCoder1/custom-icon-badges?logo=star&style=social&logoColor=black
+[12]: https://custom-icon-badges.demolab.com/github/forks/DenverCoder1/custom-icon-badges?logo=fork&style=social&logoColor=black
+[13]: https://custom-icon-badges.demolab.com/github/watchers/DenverCoder1/custom-icon-badges?logo=eye&style=social&logoColor=black
+[14]: https://custom-icon-badges.demolab.com/npm/dw/react-bootstrap?logo=download&style=social&label=Download&logoColor=black
+[15]: https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo
+[16]: https://custom-icon-badges.demolab.com/badge/-Download-F25278?style=for-the-badge&logo=download&logoColor=white
+[17]: https://custom-icon-badges.demolab.com/badge/-123--456--7890-orange?style=for-the-badge&logo=phone&logoColor=white
+[18]: https://custom-icon-badges.demolab.com/badge/-hermione@spew.co.uk-red?style=for-the-badge&logo=mention&logoColor=white
+[19]: https://custom-icon-badges.demolab.com/badge/Colorado-USA-purple?style=for-the-badge&logo=location&logoColor=white
+[20]: https://custom-icon-badges.demolab.com/badge/-Open%20Issue-palegreen?style=for-the-badge&logoColor=black&logo=issue-opened
+[21]: https://custom-icon-badges.demolab.com/badge/-Discuss-plum?style=for-the-badge&logo=comment-discussion&logoColor=black
+[22]: https://custom-icon-badges.demolab.com/badge/-Install%20Package-gold?style=for-the-badge&logo=package&logoColor=black
+[23]: https://custom-icon-badges.demolab.com/badge/-Use%20Template-teal?style=for-the-badge&logo=repo-template&logoColor=white
+[24]: https://custom-icon-badges.demolab.com/badge/-Use%20GitHub%20Action-blue?style=for-the-badge&logo=workflow&logoColor=white
+[25]: https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DDenverCoder1%26type%3Djson
+[26]: https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DDenverCoder1%26type%3Djson
