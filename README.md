@@ -94,11 +94,13 @@ Sou gaúcho, bicuíra e colorado, com uma paixão por tecnologia, literatura, ci
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
 />
-          
-
 
 <br/>
-<br/>
+<br/>          
+
+---
+
+
 
 ### 📊 Estatísticas
 
