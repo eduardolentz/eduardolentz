@@ -122,7 +122,6 @@ Sou gaúcho, bicuíra e colorado, com uma paixão por tecnologia, literatura, ci
 
 </p>
 
----
 <!--
 <h2>📘 My Top Open Source Projects</h2></summary>
 
