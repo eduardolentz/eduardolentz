@@ -1,12 +1,13 @@
 <table>
   <tr>
     <td><img alt="icone" src="imagens/icone.png" height="40"></td>
-    <td><h1 style="margin: 0;">Eduardo O. Lentz</h1></td>
+    <td><h1 style="margin: 0; padding: 0;">Eduardo O. Lentz</h1></td>
   </tr>
 </table>
 
 
 
+---
 **`Cloud Computing | Eng. de Software`**
 
 Sou gaúcho, bicuíra e colorado, com uma paixão por tecnologia, literatura, cinema, música e corrida. Sou criativo, comunicativo e gosto de trabalhar em equipe.  <br/>
