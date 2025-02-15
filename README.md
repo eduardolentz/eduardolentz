@@ -1,11 +1,7 @@
-<p align="left">
-  <img alt="icone" src="imagens/icone.png" height="40" style="vertical-align: middle;"/>
-  <span style="font-size: 30px; font-weight: bold;">Eduardo O. Lentz</span>
-</p>
 
+<img alt="icone" src="imagens/icone.png" height="40" style="vertical-align: middle;"/>
+  <h1>Eduardo O. Lentz</h1>
 
-
----
 **`Cloud Computing | Eng. de Software`**
 
 Sou gaúcho, bicuíra e colorado, com uma paixão por tecnologia, literatura, cinema, música e corrida. Sou criativo, comunicativo e gosto de trabalhar em equipe.  <br/>
