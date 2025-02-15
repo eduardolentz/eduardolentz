@@ -1,9 +1,7 @@
-<table>
-  <tr>
-    <td><img alt="icone" src="imagens/icone.png" height="40"></td>
-    <td><h1 style="margin: 0; padding: 0;">Eduardo O. Lentz</h1></td>
-  </tr>
-</table>
+<p align="left">
+  <img alt="icone" src="imagens/icone.png" height="40" style="vertical-align: middle;"/>
+  <span style="font-size: 30px; font-weight: bold;">Eduardo O. Lentz</span>
+</p>
 
 
 
