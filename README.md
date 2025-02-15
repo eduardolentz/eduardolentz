@@ -1,10 +1,7 @@
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img alt="icone" src="imagens/icone.png" height="40"/>
-  <h1 style="margin: 0;">Eduardo O. Lentz</h1>
-</div>
+<img alt="icone" src="imagens/icone.png" height="40" style="vertical-align: middle;"/>
+<h1 style="display: inline; font-size: 30px; margin-left: 10px;">Eduardo O. Lentz</h1>
 
 
----
 
 **`Cloud Computing | Eng. de Software`**
 
