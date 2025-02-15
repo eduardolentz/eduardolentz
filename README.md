@@ -1,10 +1,13 @@
- <img alt="icone" src="imagens/icone.png" height="30"/> 
+<div style="display: inline-flex; align-items: center;">
+  <img alt="icone" src="imagens/icone.png" height="40" style="margin-right: 20px;"/>
+  <span style="font-size: 30px;">Eduardo O. Lentz</span>
+</div>
 
-# Eduardo O. Lentz
+---
 
 **`Cloud Computing | Eng. de Software`**
 
-Sou gaúcho, bicuíra e colorado, com uma paixão por tecnologia, literatura, cinema, música e corrida. Sou criativo, comunicativo e gosto de trabalhar em equipe. Encontrei na área de T.I., especialmente no desenvolvimento, uma profissão que me permite aplicar minhas habilidades enquanto concilio com meus objetivos de vida. <br/>
+Sou gaúcho, bicuíra e colorado, com uma paixão por tecnologia, literatura, cinema, música e corrida. Sou criativo, comunicativo e gosto de trabalhar em equipe.  <br/>
 
 [![linkedIn][1]](https://www.linkedin.com/in/eduardolentz/)
 [![site][2]](https://www.eduardolentz.com.br)
@@ -99,9 +102,12 @@ Sou gaúcho, bicuíra e colorado, com uma paixão por tecnologia, literatura, ci
 <br/>          
 
 ---
+<h3>👨🏽‍🏫 Projetos:</h3>
+    <a href="https://github.com/eduardolentz/website-eduardolentz"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eduardolentz&repo=website-eduardolentz&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="website-eduardolentz"></a>
+    <a href="https://github.com/eduardolentz/linux-iac-ubuntuserver"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eduardolentz&repo=linux-iac-ubuntuserver&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="website-eduardolentz"></a>
+    <a href="https://github.com/eduardolentz/docker-conversao-distancia"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eduardolentz&repo=docker-conversao-distancia&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="website-eduardolentz"></a>
 
-
-
+---
 ### 📊 Estatísticas
 
 <p>
@@ -122,10 +128,7 @@ Sou gaúcho, bicuíra e colorado, com uma paixão por tecnologia, literatura, ci
 </p>
 
 
-<h2>🖱 Projetos:</h2>
 
-  <p align="left">
-    <a href="https://github.com/eduardolentz/website-eduardolentz"><img width="278" src="https://eduardolentz-github-readme-stats.vercel.app/api/pin/?username=eduardolentz&repo=website-eduardolentz&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="website-eduardolentz"></a>
 <!--
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
