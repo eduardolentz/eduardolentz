@@ -1,10 +1,10 @@
- <img alt="icone" src="imagens/icone.png" height="20"/> 
+ <img alt="icone" src="imagens/icone.png" height="30"/> 
 
 # Eduardo O. Lentz
 
 **`Cloud Computing | Eng. de Software`**
 
-Sou gaúcho, bicuíra e colorado, com uma paixão por tecnologia, literatura, cinema, música e corrida. Como leonino, sou naturalmente criativo, comunicativo e tenho um forte gosto por trabalhar em equipe, liderando para resolver problemas. Encontrei na área de T.I., especialmente no desenvolvimento, uma profissão que me permite aplicar minhas habilidades enquanto concilio com meus objetivos de vida. <br/>
+Sou gaúcho, bicuíra e colorado, com uma paixão por tecnologia, literatura, cinema, música e corrida. Sou criativo, comunicativo e gosto de trabalhar em equipe. Encontrei na área de T.I., especialmente no desenvolvimento, uma profissão que me permite aplicar minhas habilidades enquanto concilio com meus objetivos de vida. <br/>
 
 [![linkedIn][1]](https://www.linkedin.com/in/eduardolentz/)
 [![site][2]](https://www.eduardolentz.com.br)
@@ -109,7 +109,6 @@ Sou gaúcho, bicuíra e colorado, com uma paixão por tecnologia, literatura, ci
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=eduardolentz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
@@ -122,11 +121,12 @@ Sou gaúcho, bicuíra e colorado, com uma paixão por tecnologia, literatura, ci
 
 </p>
 
-<!--
-<h2>📘 My Top Open Source Projects</h2></summary>
+
+<h2>🖱 Projetos:</h2>
 
   <p align="left">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/eduardolentz/website-eduardolentz"><img width="278" src="https://eduardolentz-github-readme-stats.vercel.app/api/pin/?username=eduardolentz&repo=website-eduardolentz&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="website-eduardolentz"></a>
+<!--
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
     <a href="https://github.com/DenverCoder1/github-readme-youtube-cards"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-youtube-cards&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-youtube-cards"></a>
