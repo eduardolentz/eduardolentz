@@ -1,7 +1,8 @@
-<div style="display: inline-flex; align-items: center;">
-  <img alt="icone" src="imagens/icone.png" height="40" style="margin-right: 20px;"/>
-  <span style="font-size: 30px;">Eduardo O. Lentz</span>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img alt="icone" src="imagens/icone.png" height="40"/>
+  <h1 style="margin: 0;">Eduardo O. Lentz</h1>
 </div>
+
 
 ---
 
