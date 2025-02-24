@@ -38,6 +38,22 @@ Sou gaúcho, bicuíra e colorado, com uma paixão por tecnologia, literatura, ci
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Nodejs" 
+    title="Nodejs"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
+/>
 <img
     align="left" 
     alt="Docker" 
@@ -78,14 +94,6 @@ Sou gaúcho, bicuíra e colorado, com uma paixão por tecnologia, literatura, ci
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
 <img
     align="left" 
     alt="Bash" 
@@ -94,6 +102,15 @@ Sou gaúcho, bicuíra e colorado, com uma paixão por tecnologia, literatura, ci
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
 />
+<img 
+    align="left" 
+    alt="dotnet" 
+    title="dotnet"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
+/>
+
 
 <br/>
 <br/>          
@@ -101,8 +118,9 @@ Sou gaúcho, bicuíra e colorado, com uma paixão por tecnologia, literatura, ci
 ---
 <h3>👨🏽‍🏫 Projetos:</h3>
     <a href="https://github.com/eduardolentz/website-eduardolentz"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eduardolentz&repo=website-eduardolentz&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="website-eduardolentz"></a>
-    <a href="https://github.com/eduardolentz/linux-iac-ubuntuserver"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eduardolentz&repo=linux-iac-ubuntuserver&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="website-eduardolentz"></a>
-    <a href="https://github.com/eduardolentz/docker-conversao-distancia"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eduardolentz&repo=docker-conversao-distancia&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="website-eduardolentz"></a>
+    <a href="https://github.com/eduardolentz/API-node-biblioteca"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eduardolentz&repo=API-node-biblioteca&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="API-node-biblioteca"></a>
+    <a href="https://github.com/eduardolentz/API-python-biblioteca"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eduardolentz&repo=API-python-biblioteca&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="API-python-biblioteca"></a>
+    <a href="https://github.com/eduardolentz/API-dornet-biblioteca"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eduardolentz&repo=API-dotnet-biblioteca&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="API-dotnet-biblioteca"></a>
 
 ---
 ### 📊 Estatísticas
