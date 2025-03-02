@@ -121,6 +121,7 @@ Sou gaúcho, bicuíra e colorado, com uma paixão por tecnologia, literatura, ci
     <a href="https://github.com/eduardolentz/API-node-biblioteca"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eduardolentz&repo=API-node-biblioteca&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="API-node-biblioteca"></a>
     <a href="https://github.com/eduardolentz/API-python-biblioteca"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eduardolentz&repo=API-python-biblioteca&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="API-python-biblioteca"></a>
     <a href="https://github.com/eduardolentz/API-dornet-biblioteca"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eduardolentz&repo=API-dotnet-biblioteca&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="API-dotnet-biblioteca"></a>
+    <a href="https://github.com/eduardolentz/automacoes-aws-andreiacono-udemy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eduardolentz&repo=automacoes-aws-andreiacono-udemy&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="automacoes-aws-andreiacono-udemy"></a>
 
 ---
 ### 📊 Estatísticas
