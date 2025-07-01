@@ -1,5 +1,5 @@
 
-<img alt="icone" src="imagens/icone.png" height="40" style="vertical-align: middle;"/>
+<img alt="icone" src="images/icone.png" height="40" style="vertical-align: middle;"/>
   <h1>Eduardo O. Lentz</h1>
 
 **`Cloud Computing | Eng. de Software`**
@@ -19,14 +19,15 @@ Sou gaúcho, bicuíra e colorado, com uma paixão por tecnologia, literatura, ci
 
 ---
 ### 🏅 Certificações
-<img 
-    align="left" 
-    alt="AWS"
-    title="AWS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="images/aws1.png" 
-/>
+<img align="left" alt="AWS" width="30px" style="padding-right: 10px;" src="images/aws2.png"/>
+<img align="left" alt="AWS" width="30px" style="padding-right: 10px;" src="images/aws1.png"/>
+<img align="left" alt="Azure" width="30px" style="padding-right: 10px;" src="images/az900.png"/>
+<img align="left" alt="Scrum" width="30px" style="padding-right: 10px;" src="images/pspo1.png"/>
+<img align="left" alt="Scrum" width="30px" style="padding-right: 10px;" src="images/psm1.png"/>
+<img align="left" alt="PMI" width="30px" style="padding-right: 10px;" src="images/pmi.png"/>
+
+
+---
 ### 🤖 Linguagens e Tecnologias
 
 <img 
