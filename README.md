@@ -8,7 +8,6 @@ Sou gaúcho, bicuíra e colorado, com uma paixão por tecnologia, literatura, ci
 
 [![linkedIn][1]](https://www.linkedin.com/in/eduardolentz/)
 [![site][2]](https://www.eduardolentz.com.br)
-[![telefone][3]](https://wa.me/5551992131010)
 [![email][4]](mailto:eduardo.lentz@gmail.com)
 [![local][5]](https://www.google.com/maps/place/Torres,+RS,+95560-000/@-29.3420899,-49.7736319,11947m/data=!3m2!1e3!4b1!4m6!3m5!1s0x9522697517c81113:0xbe8eea8037e095d7!8m2!3d-29.3383976!4d-49.728226!16zL20vMDk3dmp2?entry=ttu&g_ep=EgoyMDI1MDIxMS4wIKXMDSoASAFQAw%3D%3D)
 
@@ -19,7 +18,15 @@ Sou gaúcho, bicuíra e colorado, com uma paixão por tecnologia, literatura, ci
 [5]: https://custom-icon-badges.demolab.com/badge/Torres-Brasil-purple?style=for-the-badge&logo=location&logoColor=white
 
 ---
-
+### 🏅 Certificações
+<img 
+    align="left" 
+    alt="AWS"
+    title="AWS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="images/aws1.png" 
+/>
 ### 🤖 Linguagens e Tecnologias
 
 <img 
