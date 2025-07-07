@@ -19,26 +19,16 @@ Sou gaúcho, bicuíra e colorado, com uma paixão por tecnologia, literatura, ci
 
 ---
 ### 🏅 Certificações
-<<<<<<< HEAD
-<img align="left" width="40px" style="padding-right: 10px;" src="images/aws2.png"/>
-<img align="left" width="40px" style="padding-right: 10px;" src="images/aws1.png"/>
-<img align="left" width="40px" style="padding-right: 10px;" src="images/az900.png"/>
-<img align="left" width="40px" style="padding-right: 10px;" src="images/ms900.png"/>
-<img align="left" width="40px" style="padding-right: 10px;" src="images/pspo1.png"/>
-<img align="left" width="40px" style="padding-right: 10px;" src="images/psm1.png"/>
-
+<img align="left" width="50px" style="padding-right: 10px;" src="images/aws2.png"/>
+<img align="left" width="50px" style="padding-right: 10px;" src="images/aws1.png"/>
+<img align="left" width="50px" style="padding-right: 10px;" src="images/az900.png"/>
+<img align="left" width="50px" style="padding-right: 10px;" src="images/ms900.png"/>
+<img align="left" width="50px" style="padding-right: 10px;" src="images/pspo1.png"/>
+<img align="left" width="50px" style="padding-right: 10px;" src="images/psm1.png"/>
+<img align="left" width="50px" style="padding-right: 10px;" src="images/pmi.png"/>
 <br/> 
-=======
-<img align="left" alt="AWS" width="40px" style="padding-right: 10px;" src="images/aws2.png"/>
-<img align="left" alt="AWS" width="40px" style="padding-right: 10px;" src="images/aws1.png"/>
-<img align="left" alt="Azure" width="40px" style="padding-right: 10px;" src="images/az900.png"/>
-<img align="left" alt="Scrum" width="40px" style="padding-right: 10px;" src="images/pspo1.png"/>
-<img align="left" alt="Scrum" width="40px" style="padding-right: 10px;" src="images/psm1.png"/>
-<img align="left" alt="PMI" width="40px" style="padding-right: 10px;" src="images/pmi.png"/>
-<br/>
-
 ---
->>>>>>> 8b46cdf11c5faf0b5398d63b1614f3d9615532e6
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -137,7 +127,6 @@ Sou gaúcho, bicuíra e colorado, com uma paixão por tecnologia, literatura, ci
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
 />
-
 
 <br/>
 ---
