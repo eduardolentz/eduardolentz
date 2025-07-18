@@ -23,11 +23,14 @@ Sou gaúcho, bicuíra e colorado, com uma paixão por tecnologia, literatura, ci
 <img align="left" width="50px" style="padding-right: 10px;" src="images/aws1.png"/>
 <img align="left" width="50px" style="padding-right: 10px;" src="images/az900.png"/>
 <img align="left" width="50px" style="padding-right: 10px;" src="images/ms900.png"/>
+<img align="left" width="50px" style="padding-right: 10px;" src="images/dp900.png"/>
+<img align="left" width="50px" style="padding-right: 10px;" src="images/sc900.png"/>
 <img align="left" width="50px" style="padding-right: 10px;" src="images/pspo1.png"/>
 <img align="left" width="50px" style="padding-right: 10px;" src="images/psm1.png"/>
 <img align="left" width="50px" style="padding-right: 10px;" src="images/pmi.png"/>
+
 <br/> 
----
+<br/>
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -129,7 +132,8 @@ Sou gaúcho, bicuíra e colorado, com uma paixão por tecnologia, literatura, ci
 />
 
 <br/>
----
+<br/>
+
 <h3>👨🏽‍🏫 Projetos:</h3>
     <a href="https://github.com/eduardolentz/website-eduardolentz"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eduardolentz&repo=website-eduardolentz&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="website-eduardolentz"></a>
     <a href="https://github.com/eduardolentz/API-node-biblioteca"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eduardolentz&repo=API-node-biblioteca&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="API-node-biblioteca"></a>
