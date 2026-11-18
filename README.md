@@ -5,18 +5,21 @@
 
 <div align="center">
 
-# Eduardo O. Lentz
+<!-- Header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=200&section=header&text=Eduardo%20O.%20Lentz&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20Data%20%7C%20Software%20Engineering&descAlignY=60&descSize=18" />
 
-### IT Analyst · Cloud Computing · Data · Software Engineering
+<a href="https://www.eduardolentz.com.br"><img src="https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/eduardolentz/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:eduardo.lentz@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-Building practical solutions, automating processes, and exploring the intersection of cloud, data, and software.
+<br />
 
-[LinkedIn](https://www.linkedin.com/in/eduardolentz/) · [Website](https://www.eduardolentz.com.br/) · [Email](mailto:eduardo.lentz@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=IT+Professional;Cloud+%26+Data+Enthusiast;Automation+%7C+Software+Engineering;Always+learning%2C+always+building" alt="Typing introduction" />
 
 </div>
 
 
-## About Me
+## 👋 About Me
 
 I'm an IT professional interested in **Cloud Computing, Data Analytics, Software Engineering, and Automation**.
 
@@ -24,103 +27,137 @@ Currently working with technology operations, observability, incident management
 
 I enjoy building practical solutions, automating repetitive tasks, and exploring technologies that transform data into insights.
 
+---
 
-## Areas of Interest
+## 🧭 Areas of Interest
 
-- ☁️ **Cloud Computing** — cloud platforms, infrastructure, and architecture
-- 📊 **Data Analytics** — data processing, visualization, and business insights
-- 💻 **Software Engineering** — APIs, backend development, and software design
-- ⚙️ **Automation & AI** — process automation and AI-powered solutions
+<div align="center">
 
+| ☁️ Cloud Computing | 📊 Data Analytics |
+|:---:|:---:|
+| Cloud platforms, infrastructure & architecture | Data processing, visualization & insights |
 
-## Tech Stack
+| 💻 Software Engineering | 🤖 Automation & AI |
+|:---:|:---:|
+| APIs, backend development & software design | Workflow automation & AI-powered solutions |
 
-### Cloud & Infrastructure
+</div>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+---
+## 🛠️ Tech Stack
 
-### Programming & Development
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+### ☁️ Cloud & Infrastructure
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,terraform" />
 
-### Data & Analytics
+### 💻 Programming & Development
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,dotnet,html,css" />
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Databricks](https://img.shields.io/badge/Databricks-EF3E2C?style=flat&logo=databricks&logoColor=white)
+### 📊 Data & Tools
+<img src="https://skillicons.dev/icons?i=postgres,git,github,postman" />
 
-### Tools
+</div>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Databricks-Data_Platform-EF3E2C?style=flat-square&logo=databricks&logoColor=white" />
+</p>
 
 
-## Featured Projects
+---
+## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/eduardolentz/sql-list-formatter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eduardolentz&repo=sql-list-formatter&theme=transparent&hide_border=true" alt="SQL List Formatter repository card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eduardolentz&repo=sql-list-formatter&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/eduardolentz/website-eduardolentz">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eduardolentz&repo=website-eduardolentz&theme=transparent&hide_border=true" alt="Personal Website repository card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eduardolentz&repo=website-eduardolentz&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/eduardolentz/deutsch-mit-KI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eduardolentz&repo=deutsch-mit-KI&theme=transparent&hide_border=true" alt="German Learning Companion repository card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eduardolentz&repo=deutsch-mit-KI&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
 
 
-## Certifications & Professional Development
-
-### Cloud
-
-- AWS Certified Cloud Practitioner
-- AWS Certified Solutions Architect – Associate
-- Microsoft Azure Fundamentals (AZ-900)
-- Microsoft 365 Fundamentals (MS-900)
-- Microsoft Azure Data Fundamentals (DP-900)
-- Microsoft Security, Compliance, and Identity Fundamentals (SC-900)
-
-### Agile & Project Management
-
-- Professional Scrum Product Owner I (PSPO I)
-- Professional Scrum Master I (PSM I)
-- PMI Community / Volunteer Experience
-
-
-## GitHub Analytics
+---
+## 🏅 Certifications & Professional Development
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=eduardolentz&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolentz&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages" />
+### ☁️ AWS
+<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+### 🔷 Microsoft Azure
+<img src="https://img.shields.io/badge/Azure-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft-MS--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-DP--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-SC--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+### 🔄 Agile & Project Management
+<img src="https://img.shields.io/badge/Scrum-PSM_I-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+<img src="https://img.shields.io/badge/Scrum-PSPO_I-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+<img src="https://img.shields.io/badge/PMI-Volunteer-005A9C?style=for-the-badge&logo=pmi&logoColor=white" />
 
 </div>
 
 
-## Beyond Technology
-
-I'm a **gaúcho**, a football fan, and someone who enjoys literature, cinema, music, running, traveling, and learning languages. I believe curiosity and continuous learning are essential—not only for technology, but for life.
-
-
-## Let's Connect
+---
+## 📈 GitHub Analytics
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardolentz/)
-[![Website](https://img.shields.io/badge/Website-Visit-222222?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.eduardolentz.com.br/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo.lentz@gmail.com)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=eduardolentz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolentz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<br />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=eduardolentz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<!-- Snake animation requires a GitHub Actions workflow; setup instructions can be added separately. -->
+<img src="https://raw.githubusercontent.com/eduardolentz/eduardolentz/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+
+</div>
+
+
+---
+## 🌎 Beyond Technology
+
+<div align="center">
+
+📚 Literature &nbsp; • &nbsp; 🎬 Cinema &nbsp; • &nbsp; 🎵 Music &nbsp; • &nbsp; 🏃 Running &nbsp; • &nbsp; ✈️ Travel &nbsp; • &nbsp; 🌐 Languages
+
+</div>
+
+I'm a **gaúcho**, a football fan, and someone who enjoys exploring new places, cultures, and ideas. Curiosity and continuous learning are part of how I approach both technology and life.
+
+
+---
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/eduardolentz/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.eduardolentz.com.br"><img src="https://img.shields.io/badge/Website-eduardolentz.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="mailto:eduardo.lentz@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=100&section=footer" />
 
 </div>
